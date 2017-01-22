@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tetris</title>
+        <link rel='stylesheet' href='style.css' />
+    </head>
+    <body>
+        
+    <style>
+        
+    body{
+    background-color:black;
+    position: fixed; 
+    overflow-y: scroll;
+    width: 100%;
+    } 
+        
+    canvas{
+    display: block;
+    margin: auto;
+    border: 1px solid #0f0;
+    background-color:black;
+    }
+    
+    p{
+    color:#0f0;
+    font-family:courier;
+    font-size:13px;
+    }
+        
+    </style>
+        
+    <audio id="clearsound" src="sound/pop.ogg" preload="auto"></audio>
+    <canvas width='300' height='600'></canvas>
+    <script src='tetris.js'></script>
+    <script src='controller.js'></script>
+    <script src='render.js'></script>
+    <p align="center">Use to arrow keys to change positions!</p>
+           
+        
+        
+        
+        
+    </body>
+</html>
