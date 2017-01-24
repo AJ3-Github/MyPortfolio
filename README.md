@@ -1,2 +1,1 @@
-# Portfolio
-My personal portfolio.
+AJW © 2017 
