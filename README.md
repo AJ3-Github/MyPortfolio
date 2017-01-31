@@ -1,2 +1,2 @@
-© 2017 AJW ALL RIGHTS RESERVED
-www.ajwilli.com
+© 2017 AJW
+ajwilli.com
