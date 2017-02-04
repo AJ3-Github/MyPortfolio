@@ -113,7 +113,7 @@ function clearLines() {
             for ( var yy = y; yy > 0; --yy ) {
                 for ( var x = 0; x < COLS; ++x ) {
                     board[ yy ][ x ] = board[ yy - 1 ][ x ];
-                }
+                } 
             }
             ++y;
         }
